@@ -1,3 +1,6 @@
+![Architecture du pipeline](Architecture\Architecture.png)
+![Diagramme d'Architecture du pipeline](Architecture\Diagramme.png)
+
 # Crypto Scraper Service
 
 Ce projet permet de scraper les données des cryptomonnaies depuis CoinMarketCap et de les traiter en temps réel à l'aide de Kafka, Spark et MongoDB.
@@ -12,8 +15,8 @@ Ce projet permet de scraper les données des cryptomonnaies depuis CoinMarketCap
 1. Clonez le dépôt :
 
    ```sh
-   git clone https://github.com/votre-utilisateur/votre-repo.git
-   cd votre-repo
+   git clone https://github.com/stephaneDoss/real_time_crypto_data_etl
+   cd real_time_crypto_data_etl
    ```
 
 2. Construisez et démarrez les services Docker :
@@ -82,7 +85,7 @@ Ce projet permet de scraper les données des cryptomonnaies depuis CoinMarketCap
 
 ## Auteurs
 
-- [Votre Nom](https://github.com/votre-utilisateur)
+- [Stéphane DOSSOU](https://github.com/stephaneDoss)
 
 ## Licence
 
