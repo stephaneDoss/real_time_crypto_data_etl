@@ -1,5 +1,4 @@
-![Architecture du pipeline](Architecture\Architecture.png)
-![Diagramme d'Architecture du pipeline](Architecture\Diagramme.png)
+![Architecture du pipeline](./Architecture/Architecture.png)
 
 # Crypto Scraper Service
 
@@ -82,6 +81,8 @@ Ce projet permet de scraper les données des cryptomonnaies depuis CoinMarketCap
 - `crypto_consumer.py` : Script Spark pour consommer les données de Kafka et les traiter.
 - `Producer` : Répertoire contenant le code du producteur Kafka.
 - `apiFlask` : Répertoire contenant le code de l application Flask.
+
+![Diagramme d'Architecture du pipeline](./Architecture/Diagramme.png)
 
 ## Auteurs
 
